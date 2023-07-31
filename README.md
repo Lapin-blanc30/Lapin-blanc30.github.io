@@ -5,7 +5,7 @@ Le projet sur les _Carmina_ de Paulin de Nole et la Bible contient deux volets :
 - un encodage en XML TEI des _Carmina_ avec la mention des réminiscences scripturaires présentes dans les poèmes et un encodage en XML TEI du texte de la Vulgate des versets cités.
 - un site internet mettant en évidence les réminiscences bibliques présentes dans les _Carmina_ de Paulin de Nole.
 
-Ce répertoire ne contient que le site internet hébergé. L'ensemble des fichiers (.xml, .xsl, .html et .css) est disponible dans le dépôt [Carmina_Paulin_de_Nole_Bible]( https://github.com/Lapin-blanc30/Carmina_Paulin_de_Nole_Bible).
+Ce répertoire ne contient que les éléments du [site internet](https://lapin-blanc30.github.io/) hébergé par GitHub pages. L'ensemble des fichiers (.xml, .xsl, .html et .css) est disponible dans le dépôt [Carmina_Paulin_de_Nole_Bible]( https://github.com/Lapin-blanc30/Carmina_Paulin_de_Nole_Bible).
 
 Pour l'instant, seuls les _Natalicia_, les poèmes composés chaque année pour l'anniversaire de la mort de saint Félix de Nole, ont été encodés et sont présents sur le site. Ils seront complétés ultérieurement par les _Carmina uaria_.
 
